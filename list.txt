@@ -1,0 +1,238 @@
+Wattled Curassow 1
+Cinnamon Teal 2
+Blond-crested Woodpecker 3
+Cream-colored Woodpecker 4
+Campo Flicker 5
+Ivory-billed Aracari 6
+Great Jacamar 7
+Rufous Motmot 8
+Mangrove Cuckoo 9
+Hoatzin 10
+Hyacinth Macaw 11
+Scarlet Macaw 12
+Golden Parakeet 13
+Amethyst Woodstar 14
+Horned Sungem 15
+Barn Owl 16
+Striped Owl 17
+Great Potoo 18
+Rock Dove 19
+Sunbittern 20
+Limpkin 22
+Purple Gallinule 23
+Red Knot 24
+Short-billed Dowitcher 25
+Bar-tailed Godwit 26
+Whimbrel 27
+Snowy Sheathbill 28
+Black-necked Stilt 29
+Grey Plover 30
+Laughing Gull 31
+Black Skimmer 32
+Pomarine Jaeger 33
+Crane Hawk 34
+Harpy Eagle 35
+Osprey 36
+Ornate Hawk-Eagle 37
+Peregrine Falcon 38
+American Kestrel 39
+Red-billed Tropicbird 40
+Anhinga 41
+Squacco Heron 42
+Snowy Egret 43
+Capped Heron 44
+Roseate Spoonbill 45
+Scarlet Ibis 46
+Turkey Vulture 47
+Black Vulture 48
+Jabiru 49
+King Vulture 50
+Cinnamon Attila 51
+Spangled Cotinga 52
+Striped Manakin 53
+Royal Flycatcher 54
+Capuchinbird 55
+Great Kiskadee 56
+Bearded Bellbird 57
+Tropical Kingbird 58
+Great Xenops 59
+Chucao Tapaculo 60
+Azure Jay 61
+Veery 62
+Wood Thrush 63
+Barn Swallow 64
+Purple Martin 65
+Sand Martin 66
+House Sparrow 67
+Bananaquit 68
+Red-legged Honeycreeper 69
+Blue Dacnis 70
+Cerulean Warbler 71
+Blackburnian Warbler 72
+Bobolink 73
+Antillean Euphonia 74
+Northern Parula 75
+Hepatic Tanager 76
+Crested Oropendola 77
+American Redstart 78
+Eastern Meadowlark 79
+Paradise Tanager 80
+
+---------------pássaros Centro oeste
+    Wattled Curassow
+    Cinnamon Teal
+    Cream-colored Woodpecker
+    Campo Flicker
+    Great Jacamar
+    Rufous Motmot
+    Hoatzin
+    Hyacinth Macaw
+    Scarlet Macaw
+    Golden Parakeet
+    Sunbittern
+
+--------------------- pássaros do Norte 
+
+    Hoatzin
+    Scarlet Ibis
+    Jabiru
+    Chucao Tapaculo
+    Azure Jay
+    Bananaquit
+    Red-legged Honeycreeper
+    Blue Dacnis
+    Cerulean Warbler
+    Blackburnian Warbler
+    Bobolink
+    Antillean Euphonia
+    Northern Parula
+    Hepatic Tanager
+    Crested Oropendola
+    Paradise Tanager
+
+---------------------- sem o norte
+
+    Wattled Curassow
+    Cinnamon Teal
+    Blond-crested Woodpecker
+    Cream-colored Woodpecker
+    Campo Flicker
+    Ivory-billed Aracari
+    Great Jacamar
+    Rufous Motmot
+    Mangrove Cuckoo
+    Hyacinth Macaw
+    Scarlet Macaw
+    Golden Parakeet
+    Amethyst Woodstar
+    Horned Sungem
+    Barn Owl
+    Striped Owl
+    Great Potoo
+    Rock Dove
+    Sunbittern
+    Limpkin
+    Purple Gallinule
+    Red Knot
+    Short-billed Dowitcher
+    Bar-tailed Godwit
+    Whimbrel
+    Snowy Sheathbill
+    Black-necked Stilt
+    Grey Plover
+    Laughing Gull
+    Black Skimmer
+    Pomarine Jaeger
+    Crane Hawk
+    Harpy Eagle
+    Osprey
+    Ornate Hawk-Eagle
+    Peregrine Falcon
+    American Kestrel
+    Red-billed Tropicbird
+    Anhinga
+    Squacco Heron
+    Snowy Egret
+    Capped Heron
+    Roseate Spoonbill
+    Turkey Vulture
+    Black Vulture
+    Cinnamon Attila
+    Spangled Cotinga
+    Striped Manakin
+    Royal Flycatcher
+    Capuchinbird
+    Great Kiskadee
+    Bearded Bellbird
+    Tropical Kingbird
+    Great Xenops
+    Veery
+    Wood Thrush
+    Barn Swallow
+    Purple Martin
+    Sand Martin
+    House Sparrow
+    American Redstart
+    Eastern Meadowlark
+
+------------------------ sem nordeste e o norte 
+
+    Wattled Curassow
+    Cinnamon Teal
+    Blond-crested Woodpecker
+    Cream-colored Woodpecker
+    Campo Flicker
+    Ivory-billed Aracari
+    Great Jacamar
+    Rufous Motmot
+    Mangrove Cuckoo
+    Amethyst Woodstar
+    Horned Sungem
+    Barn Owl
+    Striped Owl
+    Great Potoo
+    Rock Dove
+    Sunbittern
+    Limpkin
+    Purple Gallinule
+    Red Knot
+    Short-billed Dowitcher
+    Bar-tailed Godwit
+    Whimbrel
+    Snowy Sheathbill
+    Black-necked Stilt
+    Grey Plover
+    Laughing Gull
+    Black Skimmer
+    Pomarine Jaeger
+    Crane Hawk
+    Harpy Eagle
+    Osprey
+    Ornate Hawk-Eagle
+    Peregrine Falcon
+    American Kestrel
+    Red-billed Tropicbird
+    Anhinga
+    Squacco Heron
+    Snowy Egret
+    Capped Heron
+    Roseate Spoonbill
+    Turkey Vulture
+    Black Vulture
+    Cinnamon Attila
+    Spangled Cotinga
+    Striped Manakin
+    Royal Flycatcher
+    Capuchinbird
+    Great Kiskadee
+    Bearded Bellbird
+    Tropical Kingbird
+    Great Xenops
+    Veery
+    Wood Thrush
+    Barn Swallow
+    Purple Martin
+    Sand Martin
+    House Sparrow
+    American Redstart
+    Eastern Meadowlark
